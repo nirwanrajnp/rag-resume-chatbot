@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+
+# Virtual Environments
+venv/
+
+# System Files
+.DS_Store
+
+# IDEs and Editors
+.vscode/
+.pydevproject
+
+# Environment Variables
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# ChromaDB Data
+data/chroma_db/
+backend/data/chroma_db/
+*.db
+*.sqlite
+*.sqlite3
+
+# Resume Files (consider if these should be tracked)
+*.pdf
+data/*.pdf
+data/*.docx
+data/*.doc
+
+# Ollama Models and Cache
+.ollama/
+ollama_data/
+
+# Docker
+.docker/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Streamlit
+.streamlit/
+
+# Local development
+local_settings.py
+config_local.py
+
+# docs
+*.pdf
+
+#scripts
+scripts/
