@@ -63,6 +63,15 @@ config_local.py
 
 # docs
 *.pdf
+*.json
 
 #scripts
 scripts/
+
+#Unused Files
+docker-compose.yml
+Dockerfile
+nginx.conf
+structured_ingest.py
+structured_parser.py
+ingest_resume.py
