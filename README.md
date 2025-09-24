@@ -1,4 +1,4 @@
-# Resume Chatbot
+# RAG Resume Chatbot
 
 A self-hosted AI-powered resume chatbot that enables natural language queries about professional background. Built with FastAPI, Ollama, and ChromaDB for efficient local deployment.
 
